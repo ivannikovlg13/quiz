@@ -30,7 +30,7 @@ function Result({ correct }) {
       <h2>
         You got {correct} out of {questions.length}
       </h2>
-      <a href="/">
+      <a href="/quiz/">
         <button>Try again</button>
       </a>
     </div>
